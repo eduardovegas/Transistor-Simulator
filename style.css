@@ -1,0 +1,75 @@
+.boxLine1{
+    margin-top: 20px;
+    margin-right:12px;
+    height: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.boxLine1 input{
+    width: 50px;
+}
+.boxLine2{
+    margin-top: 20px;
+    margin-right:11px;
+    height: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.boxLine2 input{
+    width: 50px;
+}
+.boxLine3{
+    margin-top: 20px;
+    height: 2vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+.boxLine3 input{
+    width: 50px;
+}
+
+.space{
+    margin-left:3px;
+}
+.tab1{
+    margin-right:27px;
+}
+.tab2{
+    margin-right:28px;
+}
+.tab3{
+    margin-right:10px;
+}
+
+.boxLine4{
+    margin-top: 5px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.resultsText{
+    height: 6vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.chartCard{
+    width: 100vw;
+    height: calc(100vh - 40px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.chartBox{
+    width:100%;
+    max-width:50vw
+}
